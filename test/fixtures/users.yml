@@ -2,8 +2,6 @@
 
 one:
   name: MyString
-  bio: MyText
 
 two:
   name: MyString
-  bio: MyText
